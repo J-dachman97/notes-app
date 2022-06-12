@@ -39,7 +39,7 @@ If you need to update `npm`, you can use the following command
 
 ## Install the app 
 
-    $ git clone https://github.com/YOUR_USERNAME/PROJECT_TITLE
+    $ git clone https://github.com/J-dachman97/notes-app
     $ cd notes-app
     $ yarn install
     $ cd client
